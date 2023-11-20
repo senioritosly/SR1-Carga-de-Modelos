@@ -1,3 +1,3 @@
 # SR1 - Carga de Modelos
 
-![Imagen del modelo](/SR1-Carga-de-Modelos/Modelo.png)
+![Imagen del modelo](Modelo SR1.png)
