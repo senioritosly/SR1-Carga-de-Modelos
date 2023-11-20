@@ -1,0 +1,12 @@
+# ninja log v5
+3	50	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR1_Graficas-main/cmake-build-debug/CMakeFiles/cmake.verify_globs	560b1bfc2799e80e
+25	2207	7222234518769355	CMakeFiles/SR1.dir/src/color.cpp.obj	f7249af77195ed4a
+40	4078	7222234537604119	CMakeFiles/SR1.dir/src/framebuffer.cpp.obj	87fcd75b7ee0d5fa
+7	90	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR1_Graficas-main - copia/cmake-build-debug/CMakeFiles/cmake.verify_globs	20588e133124dfb3
+14	6728	7222234564092496	CMakeFiles/SR1.dir/src/main.cpp.obj	79b583c33ecb8d1
+6728	7033	7222234567089295	SR1.exe	2355218f14a71f89
+8	97	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR1-Carga-de-Modelos/SR1/cmake-build-debug/CMakeFiles/cmake.verify_globs	34d9488818fc7c9c
+15	4001	7222235950338054	CMakeFiles/SR1.dir/src/color.cpp.obj	a470cf3f4637377b
+48	5570	7222235965978028	CMakeFiles/SR1.dir/src/framebuffer.cpp.obj	8e0e80795a134ee7
+35	8772	7222235998072588	CMakeFiles/SR1.dir/src/main.cpp.obj	187747fb48f68a7a
+8772	9200	7222236002295010	SR1.exe	2355218f14a71f89
